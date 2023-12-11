@@ -1,0 +1,40 @@
+.formulari {
+    width: 300px;
+    height: 200px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    z-index: 9999;
+    position: relative;
+    color: black;
+  }
+  input[type="text"] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    color: black;
+  }
+  .container {
+    height: 100px;
+    position: relative;
+  } 
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+  .boto{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+  }

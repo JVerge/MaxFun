@@ -33,7 +33,6 @@ export class Tab4Page implements OnInit {
       }
     }
 
-
   }
 
   metodeDelPare(a: boolean) {
